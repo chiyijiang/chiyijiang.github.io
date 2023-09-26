@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2023-09-26T06:39:14.311Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.fomal.cc/posts/0.html"/>
+    <id>https://www.fomal.cc/posts/0.html</id>
+    <published>2023-09-22T10:20:57.296Z</published>
+    <updated>2023-09-26T06:39:14.311Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Linux系统"><a href="#Linux系统" class="headerlink" title="Linux系统"></a>Linux系统</h1><h2 id="什么是WSL"><a href="#什么是WSL" class="headerlink" title="什么是WSL"></a>什么是WSL</h2><p>WSL：Windows  Subsystem  for   Linux，是用于Windows系统上的Linux子系统，作用很简单，可以在Windows系统中获得Linux系统环境，并且完全直连计算机硬件，无需通过虚拟机虚拟硬件。</p><p>功能：无需虚拟机，直接使用主机的硬件设备，构建linux操作系统。并不影响windows系统本身的运行</p><h2 id="Linux命令基本格式"><a href="#Linux命令基本格式" class="headerlink" title="Linux命令基本格式"></a>Linux命令基本格式</h2><p>无论是上面命令，用于什么用途，在linux中，命令有其通用的格式：</p><p>command  [-options] [parameter]</p><p>​    command：命令本身</p><p>​    -options：[可选]命令的一些选项，可以通过选项控制命令的行为细节</p><p>​    parameter：[可选]命令的参数，多数用于命令的指向目标等</p><h5 id="ls命令"><a href="#ls命令" class="headerlink" title="ls命令"></a>ls命令</h5><p>展示当前工作目录    </p><p>可选项：-a，展示隐藏的，以.开头的文件</p><p>​                -l，以列表方式展示，</p><p>​                -h，需要和-l搭配，显示文件大小</p><h5 id="cd命令"><a href="#cd命令" class="headerlink" title="cd命令"></a>cd命令</h5><p>cd命令可以切换当前工作目录</p><p>​    cd 路径</p><p>​    可以进入路径</p><p>​    cd / </p><p>​    进入根目录</p><h5 id="pwd命令"><a href="#pwd命令" class="headerlink" title="pwd命令"></a>pwd命令</h5><p>pwd命令用于显示当前工作目录</p><h5 id="mkdir命令"><a href="#mkdir命令" class="headerlink" title="mkdir命令"></a>mkdir命令</h5><p>mkdir用以创建新的文件夹</p><p>mkdir  路径</p><p>创建文件</p><p>-p可以创建不存在的父文件</p><h5 id="touch命令"><a href="#touch命令" class="headerlink" title="touch命令"></a>touch命令</h5><p>用于创建一个新的文件</p><p>touch  路径</p><p>参数必填，表示要创建的文件的路径，相对绝对，特殊路径都可使用</p><h5 id="cat命令"><a href="#cat命令" class="headerlink" title="cat命令"></a>cat命令</h5><p>用于查看文件内容</p><p>cat   路径</p><p>参数必填，表示要查看的文件的路径，相对绝对特殊路径都可以使用</p><h5 id="more命令"><a href="#more命令" class="headerlink" title="more命令"></a>more命令</h5><p>用于查看文件内容，可翻页查看</p><p>more   路径</p><p>参数必填，表示要查看的文件的路径，相对绝对，特殊路径都可以使用</p><p>使用空格翻页，使用q退出</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Linux系统&quot;&gt;&lt;a href=&quot;#Linux系统&quot; class=&quot;headerlink&quot; title=&quot;Linux系统&quot;&gt;&lt;/a&gt;Linux系统&lt;/h1&gt;&lt;h2 id=&quot;什么是WSL&quot;&gt;&lt;a href=&quot;#什么是WSL&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>

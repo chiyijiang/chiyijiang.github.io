@@ -4,7 +4,7 @@
   <url>
     <loc>https://chiyijiang.github.io/posts/0.html</loc>
     
-    <lastmod>2023-10-22</lastmod>
+    <lastmod>2023-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://chiyijiang.github.io/posts/0.html</loc>
     
-    <lastmod>2023-10-22</lastmod>
+    <lastmod>2023-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://chiyijiang.github.io/posts/0.html</loc>
     
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,6 +83,15 @@
   </url>
   
   <url>
+    <loc>https://chiyijiang.github.io/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chiyijiang.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -101,16 +110,7 @@
   </url>
   
   <url>
-    <loc>https://chiyijiang.github.io/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiyijiang.github.io/life/games/index.html</loc>
+    <loc>https://chiyijiang.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,16 +137,7 @@
   </url>
   
   <url>
-    <loc>https://chiyijiang.github.io/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiyijiang.github.io/personal/about/index.html</loc>
+    <loc>https://chiyijiang.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -173,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://chiyijiang.github.io/social/link/index.html</loc>
+    <loc>https://chiyijiang.github.io/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -183,6 +174,15 @@
   
   <url>
     <loc>https://chiyijiang.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiyijiang.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     

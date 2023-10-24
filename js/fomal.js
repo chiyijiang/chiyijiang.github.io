@@ -674,8 +674,8 @@ if (document.body.clientWidth > 992) {
         zoom: 0.9,
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
-        nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
-        hoverMsg: "春天啦~",
+        nekoImg: "https://raw.githubusercontent.com/chiyijiang/image/main/img/202310241644930.png",
+        hoverMsg: "欢迎来到休伯利安~",
         color: "var(--theme-color)",
         during: 500,
         blog_body: "body",
@@ -3137,7 +3137,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://raw.githubusercontent.com/chiyijiang/image/main/img/202310231959723.jpg);
+    --default-bg: url(https://raw.githubusercontent.com/chiyijiang/image/main/img/202310241614015.jpg);
     --darkmode-bg:url(https://raw.githubusercontent.com/chiyijiang/image/main/img/202310231959723.jpg);
     --mobileday-bg: url(https://raw.githubusercontent.com/chiyijiang/image/main/img/202310231959723.jpg);
     --mobilenight-bg: url(https://raw.githubusercontent.com/chiyijiang/image/main/img/202310231959723.jpg);

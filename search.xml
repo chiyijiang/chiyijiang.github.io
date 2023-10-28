@@ -47,19 +47,6 @@
       <link href="/posts/0.html"/>
       <url>/posts/0.html</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
-      
         <content type="html"><![CDATA[<p>什么是环境变量?<br>环境变量是一组信息记录,类型是KeyValue型(名称=值)用于操作系统运行的时候记录关键信息<br>2.通过env命令可以查看当前系统配置的环境变量信息3.通过$符号，可以取出环境变量的值<br>4.什么是PATH,作用是?<br>环境变量PATH会记录一组目录,目录之间用:隔开。这里记录的是命令的搜索路径当执行命令会从记录中记录的目录中挨个搜索要执行的命令并执行。可以通过修改这个项目的值,加入自定义的命令搜索路径如export PATH=$PATH:自定义路径<br>5.如何修改环境变量?<br>临时生效:export 名称=值<br>永久生效:<br>针对用户:~/bashrc文件中配置</p><p>针对全部用户： /etc/profile 文件中配置</p><p>配置完成，可以通过source命令立刻生效</p>]]></content>
       
       

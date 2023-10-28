@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mortal</title>
+  <title>HOME</title>
   
   
   <link href="https://chiyijiang.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://chiyijiang.github.io/</id>
   
   <author>
-    <name>Mortal</name>
+    <name>太虚剑气学了一半</name>
     
   </author>
   
@@ -76,19 +76,6 @@
 &lt;h6 id=&quot;基于阿里云创建项目：&quot;&gt;基于阿里云创建项目：&lt;/h6&gt;
 &lt;p&gt;​	因为SpringBoot项目需要联网，它提供的网址不太好用或者链接不上的，可以使用阿里云的，地址：http：&lt;</summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://chiyijiang.github.io/posts/0.html"/>
-    <id>https://chiyijiang.github.io/posts/0.html</id>
-    <published>2023-10-18T13:06:34.191Z</published>
-    <updated>2023-10-19T13:42:46.740Z</updated>
-    
     
     
     
